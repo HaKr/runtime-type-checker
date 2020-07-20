@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"pmneo.tsimporter",
+		"rbbit.typescript-hero",
+		"stringham.move-ts"
+	],
+	"unwantedRecommendations": [
+		"evolution-gaming.evolution-gaming--vscode-eslint",
+		"xyz.local-history"
+	]
+}

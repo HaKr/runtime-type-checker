@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"declaration": true,
+		"declarationDir": "./@types/",
+		"baseUrl": "./src",
+		"target": "es2019",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"strict": true,
+		"composite": true
+	},
+	"include": ["./src/**/*.ts", "./test/**/*.ts"]
+}

@@ -1,0 +1,10 @@
+.github
+.vscode
+test/*
+*.js.map
+src/*
+shared/*
+.history
+*.tgz
+tsconfig.*
+subscription.txt
